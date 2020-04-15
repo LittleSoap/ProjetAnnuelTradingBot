@@ -1,0 +1,2 @@
+# ProjetAnnuelTradingBot
+Bot de Trading
